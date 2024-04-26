@@ -1,4 +1,4 @@
-###<h1 align="center">Hi 👋, I'm Yuva Sai</h1>
+<h1 align="center">Hi 👋, I'm Yuva Sai</h1>
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Frontend**
